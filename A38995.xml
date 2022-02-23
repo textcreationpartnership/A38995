@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull nevves from Warwick-Castle and Banburie sent in a letter from Mr. Fines, son to the Right Honourable the Lord Say, to Mr. Iohn Pym, Esq; a worthy member of the House of Commons. Wherin is declared how the Earl of Northampton had besieged Warwick Castle, and planted against it divers pieces of ordnance, and how he was beaten off by the souldiers that were within the said castle. Also comfortable tydings from Portsmouth, declaring the manner how M. Norton one of the lieutenants for Hampshire, hath took the works which Colonell Goring had made three miles from the town. Hen. Elsing Cler. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38995</idno>
+            <idno type="STC">Wing E3767A</idno>
+            <idno type="STC">ESTC R213053</idno>
+            <idno type="EEBO-CITATION">99825571</idno>
+            <idno type="PROQUEST">99825571</idno>
+            <idno type="VID">29957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29957)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull nevves from Warwick-Castle and Banburie sent in a letter from Mr. Fines, son to the Right Honourable the Lord Say, to Mr. Iohn Pym, Esq; a worthy member of the House of Commons. Wherin is declared how the Earl of Northampton had besieged Warwick Castle, and planted against it divers pieces of ordnance, and how he was beaten off by the souldiers that were within the said castle. Also comfortable tydings from Portsmouth, declaring the manner how M. Norton one of the lieutenants for Hampshire, hath took the works which Colonell Goring had made three miles from the town. Hen. Elsing Cler. D. Com.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Cave,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>August 17. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29957:1"/>
+            <pb facs="tcp:29957:1"/>
+            <p>Exceeding Joyfull NEWES FROM <hi>Warwick-Caſtle and Banburie:</hi> SENT In a Letter from Mr. <hi>Fines,</hi> Son to the Right Honourable the Lord <hi>Say,</hi> to Mr. <hi>Iohn Pym,</hi> Eſq; a worthy member of the Houſe of Commons.</p>
+            <p>Wherin is Declared how the Earl of <hi>North<g ref="char:EOLhyphen"/>ampton</hi> had beſieged Warwick Caſtle, and planted againſt it divers pieces of Ordnance, and how he was beaten off by the Souldiers that were within the ſaid Caſtle.</p>
+            <p>Alſo comfortable Tydings from <hi>Portſmouth,</hi> declaring the manner how <hi>M.</hi> NORTON one of the Lieutenants for Hampſhire, hath took the Works which Co<g ref="char:EOLhyphen"/>lonell Goring had made three miles from the Town.</p>
+            <p>Hen. Elſing Cler. D. Com.</p>
+            <p>Printed for <hi>Iohn Cave. Auguſt</hi> 17. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:29957:2" rendition="simple:additions"/>
+            <pb facs="tcp:29957:2"/>
+            <head>Exceding JOYFUL NEVVES FROM <hi>WARWICK-CASTLE.</hi>
+            </head>
+            <p>VPon <hi>Tueſday</hi> laſt, being the 16 day of this inſtant month of <hi>August,</hi> the Houſe of Commons received a Letter from Mr. <hi>Fines,</hi> Son to the right Honourable the Lord <hi>Say</hi> (who had the Charge of the Ordinance, in the abſence of the Lord <hi>Brooks</hi>) the ſaid Letter was directed to Mr. <hi>Pym,</hi> an Honourable and worthy member of the Commons. Houſe and at the compleating of the ſaid houſe, Mr. <hi>Pym</hi> acquainted them with it, and o<g ref="char:EOLhyphen"/>penly read the ſame in the preſence of all thoſe members that were reſiding <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e.</p>
+            <pb facs="tcp:29957:3"/>
+            <p> The Subſtance and Forme of the ſaid Letter, is Declared and laid open in theſe enſuing Particulars.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Letter.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>OUt of the love and affection, which I bear unto you, I thought it very ex<g ref="char:EOLhyphen"/>pedient to acquaint you with our pro<g ref="char:EOLhyphen"/>ceedings in theſe parts, which I have here briefly ſet down, as followeth.</p>
+                  <p>The Earl of <hi>Northampton</hi> having no ſooner had information, that the Vo<g ref="char:EOLhyphen"/>lunteers that came out of <hi>Hartfordſhire</hi> were returned back again, by reaſon of a forged Letter that was ſent unto them, by the plot and procurement of the ſaid Earl in the name of Mr. <hi>Hambden,</hi> deſiring them to return back again, pretending that there was no need of their going to <hi>Ban<g ref="char:EOLhyphen"/>bury,</hi> he immediatly marched towards <hi>Banbury</hi> with 600. horſe, and comming thither, he commanded the ſaid town to be reſtored up into his cuſtody, but the
+<pb facs="tcp:29957:3"/>Inhabitants of the ſaid town would not conſent therto, but reſolved rather to ſpend their deareſt lives in the defence of both Houſes, then to prove falſe and trea<g ref="char:EOLhyphen"/>cherous unto them.</p>
+                  <p>The Ordinance and Ammunition that were in <hi>Banbarie,</hi> was carryed to the Lord <hi>Say</hi> his Houſe, and Mr. Fines is Reſolved to loſe his deareſt blood in the defence and preſervation of them, and if it were poſſible, would break them in pieces, ra<g ref="char:EOLhyphen"/>ther then the Earl of <hi>Northampton</hi> ſhould have them to imploy againſt the <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+                  <p>The Houſe of Commons having ſpent ſome time in debate of theſe tydings, im<g ref="char:EOLhyphen"/>mediatly drew up an Order, and reſolved that the Lord <hi>Brookes</hi> ſhould go down with all ſpeed, with thoſe Forces that are raiſed here, to preſerve the peace and ſafe<g ref="char:EOLhyphen"/>ty of that County.</p>
+                  <p>The ſaid Lords and Commons have alſo given him power and command to raiſe the Country, and to kill and ſlay all thoſe that ſhall oppoſe him.</p>
+                  <pb facs="tcp:29957:4"/>
+                  <p> Theſe particulars aforementioned was agreed on by the Honourable Houſe of Commons, and having prepared and made ready the Orders and Commiſſions that were to be granted to the Lord <hi>Brookes,</hi> they ſent a meſſage to the Lords to De<g ref="char:EOLhyphen"/>ſire their concurrence therin, which they moſt willingly agreed and conſented to, and it was forthwith diſpatched by the Lords.</p>
+                  <p>Theſe are the Orders of both Houſes of <hi>Parliament,</hi> concerning the Lord <hi>Brookes,</hi> Lord Lieutenant of <hi>Warwickeſhire.</hi>
+                  </p>
+                  <p>Both Houſes of <hi>Parliament</hi> hath alſo taken into conſideration the proceedings of the Earl of <hi>Northampton,</hi> and after ſome time of debate therupon, it was Ordered, that the Lieutenant of the County of <hi>Buckingham,</hi> Mr. <hi>Hambden,</hi> and Mr. <hi>Goodwyn</hi> (being both made Colonels) ſhould goe down into <hi>Buckingham-ſhire</hi> to raiſe For<g ref="char:EOLhyphen"/>ces in that County, and to march with them towards <hi>Banbury,</hi> for the preſerva<g ref="char:EOLhyphen"/>tion therof againſt the Earl of <hi>Northamp<g ref="char:EOLhyphen"/>ton.</hi>
+                  </p>
+                  <pb facs="tcp:29957:4"/>
+                  <p> But it was reported to both houſes of <hi>Parliament</hi> for certain, that the Earle of <hi>Northampton</hi> hath taken the <hi>Ordinance</hi> and <hi>Magazine</hi> that were at <hi>Banbury,</hi> and car<g ref="char:EOLhyphen"/>ryed them to <hi>Warwicke,</hi> and hath planted them againſt the Caſtle, and hath alſo ga<g ref="char:EOLhyphen"/>thered together a great Number of men, being credibly reported, 14. or 1500. at the leaſt, and that Mr. <hi>Fines</hi> when he ſaw that he was no wayes able to make reſi<g ref="char:EOLhyphen"/>ſti<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>livered up the Ordinance, ſo that there was no hurt done, the Townſ-men being willing that the Ordinance ſhould be carryed away, thereby thinking to free themſelves of the preſent Fears, and danger they were in.</p>
+                  <p>The ſaid Earl of <hi>Northampton</hi> hath alſo ſince his beſieging the Caſtle of <hi>Warwick,</hi> made many attempts againſt it, and in<g ref="char:EOLhyphen"/>deavoured to beat down the Walls of the ſaid Caſtle, thinking therby to obtain it, but he was prevented of that damnable project; for the Inhabitants that were within, ſeeing the Reſolution of <hi>Spencer,</hi> and that he were mounting his Ordi<g ref="char:EOLhyphen"/>nance
+<pb facs="tcp:29957:5"/>againſt them, forth with diſcharged three of their Braſſe Pieces againſt the Pioners that were raiſing of <hi>Fortifications</hi> and <hi>Bulwarks,</hi> and ſlew about the Number of 12. or 13. men.</p>
+                  <p>There was intelligence alſo brought to both Houſes of <hi>Parliament</hi> from <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> declaring the proceedings of one Mr. <hi>Norton,</hi> one of the <hi>Deputy Lieutenants</hi> for <hi>Hampſhire,</hi> relating, that he had <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>n the works, that Colonel <hi>Goring</hi> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>king at the Bridge, three mi<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Town, with 200. men, which <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ed in the <hi>Parliaments</hi> name.</p>
+                  <p>They were alſo informed, that the Ca<g ref="char:EOLhyphen"/>valeers that are in the ſaid town of <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> do ſteal away, ſo that he hath in the town not above 200. ſouldiers.</p>
+                  <closer>
+                     <signed>
+                        <hi>Hen Elſing Cler. Par.</hi> D. <hi>Com.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29957:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
